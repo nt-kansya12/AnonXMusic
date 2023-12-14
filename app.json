@@ -1,7 +1,7 @@
 {
-    "name": "ʙᴇʀʟɪɴ ダ ᴍᴜsɪᴄ",
+    "name": "ᴀᴅɪʀᴀ ᴍᴜsɪᴄ ʙᴏᴛ",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://graph.org/file/c535cd1372d231dcbcbf8.jpg",
+    "logo": "https://graph.org/file/f93822ec2958136a01969.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -14,28 +14,28 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "9989768",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "7bf22eb791b7f0c9c2ce0ad8fecd3ab7",
           
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "6429002116:AAHjZgjeP5VA-HgKJmaMVw1DHHtQy8Qu8_c",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://Hazume:1234@cluster0.3mwwkrl.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "",
+        "value": "1825139822",
         "required": true
       },
       "STRING_SESSION": {
@@ -45,7 +45,7 @@
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
-        "value": "",
+        "value": "ede6d86c-92ef-4be4-b7dc-89ce26bb8404",
         "required": false
       },
       "HEROKU_APP_NAME": {
@@ -55,7 +55,7 @@
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "",
+        "value": "-1002049500040",
         "required": true
       }
     },
